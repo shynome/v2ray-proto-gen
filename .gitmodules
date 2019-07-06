@@ -1,3 +1,6 @@
 [submodule "v2ray-core"]
 	path = v2ray-core
 	url = https://github.com/v2ray/v2ray-core.git
+[submodule "v2ray.com/core"]
+	path = v2ray.com/core
+	url = git@github.com:shynome/v2ray-proto.git
